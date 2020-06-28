@@ -1,0 +1,12 @@
+## Interface: 20200
+## Title: FriendSync++
+## Author: Nevaa
+## Version: 0.7
+## Notes: FriendSync++ is based on the same idea as FriendSync but instead allows users to sync their friends lists across their characters the way they want to, quickly and carefully.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: friends
+localization-enUS.lua
+main.lua
+MainForm.xml
+ChangesForm.xml
